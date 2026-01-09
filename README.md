@@ -54,16 +54,14 @@ Spark runs in `local[N]` mode to simulate a distributed cluster.
  
 ## Repository Structure
 
-
 spark-taxi-cloud-project/
 │
 ├── README.md
-│
-├── code/
-│   └── Project.ipynb    
-├── report/
-│   └── Cloud_Project_Report.pdf
-     
+├── src/
+│   └── Project.ipynb
+└── report/
+    └── projectReportTemplate-2026.pdf
+ 
 
 
 ## Project Links
