@@ -51,7 +51,17 @@ Results are displayed in a structured performance table.
  The project is executed on Google Colab.
 Spark runs in `local[N]` mode to simulate a distributed cluster.
  All processing and results are displayed directly on the cloud platform.
-
+ 
+## Repository Structure
+spark-taxi-cloud-project/
+│
+├── README.md
+│
+├── code/
+│   └── Project.ipynb    
+├── report/
+│   └── Cloud_Project_Report.pdf
+     
 
 
 ## Project Links
