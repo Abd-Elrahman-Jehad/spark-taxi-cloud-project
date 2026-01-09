@@ -53,6 +53,8 @@ Spark runs in `local[N]` mode to simulate a distributed cluster.
  All processing and results are displayed directly on the cloud platform.
  
 ## Repository Structure
+
+
 spark-taxi-cloud-project/
 │
 ├── README.md
